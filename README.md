@@ -21,4 +21,4 @@ A Weather app created using EJS,Express,Bootstrap,Node.js and an open weather AP
 - Jquery
 
 ## What the app looks like
-![alt text]
+![alt text](https://github.com/Xontrokolis/Weather-App/blob/main/WeatherImage.png)
